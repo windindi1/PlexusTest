@@ -1,0 +1,323 @@
+{
+  "id": "1",
+  "title": "PlexusMD Learning",
+  "description": "PlexusMD Learning engages with senior medical professionals across specialties, health agencies and medical associations worldwide to bring to you videos on important topics, latest developments, guidelines and stories of interest.",
+  "countSubscribers": 1900,
+  "subscriptionCost": "FREE",
+  "videos": [
+    {
+      "id": "1",
+      "title": "Pulmonary Tuberculosis (Trailer)",
+      "duration": 205,
+      "countLike": 17,
+      "countComment": 2,
+      "countViews": 585,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_1",
+      "tutor": {
+        "id": "1",
+        "name": "Dr. Mahadev Desai",
+        "position": "Sr. Consultant Physician",
+        "thumbnail": "../../images/img_tutor_1"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Pulmonary Tuberculosis",
+      "description": "Tuberculosis is one of the commonest chronic infectious diseases worldwide. Sadly, India contributes to nearly 28% of incidence across the globe (2017 report). Pulmonary Tuberculosis is the commonest presentation. In a bid to address one of the most significant public health challenges facing the country, the Government of India has made Tuberculosis a notifiable disease by all Medical Personal, Laboratory personal and Chemists for any new case of Tuberculosis. In this short presentation all clinical, laboratory and management aspects of Tuberculosis are discussed with emphasis on Revised National Tuberculosis Program (RNTCP) (2017) and Directly Observed Treatment Short Course (DOTS).",
+      "duration": 2304,
+      "countLike": 48,
+      "countComment": 8,
+      "countViews": 2100,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_2",
+      "tutor": {
+        "id": "1",
+        "name": "Dr. Mahadev Desai",
+        "position": "Sr. Consultant Physician",
+        "thumbnail": "../../images/img_tutor_1"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Tonsillectomy",
+      "description": "This presentation highlights the importance of Tonsils in an immune defense mechanism, describes Tonsillectomy in succinct step-wise manner, deals with modern techniques and, very importantly, discusses various aspects of bleeding and Surgical Hemostasis",
+      "duration": 2800,
+      "countLike": 11,
+      "countComment": 4,
+      "countViews": 341,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_3",
+      "tutor": {
+        "id": "2",
+        "name": "Dr. Tejus Naik",
+        "position": "Consulting Neonatal & Paediatric Surgeon",
+        "thumbnail": "../../images/img_tutor_2"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Approach to a case of Breathlessness",
+      "description": "Breathlessness or Dyspnea is defined as subjective experience of breathing discomfort. Causes of breathlessness may vary from the most serious to lesser serious conditions. So in those conditions one has to take in to account detailed history and clinical examination sooner. Certain emergency treatment has to be initiated by the Primary Physician. We bring to you a short and handy ready-reckoner type approach for a case presenting with breathlessness",
+      "duration": 1403,
+      "countLike": 106,
+      "countComment": 5,
+      "countViews": 2800,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_4",
+      "tutor": {
+        "id": 1,
+        "name": "Dr. Mahadev Desai",
+        "position": "Sr. Consultant Physician",
+        "thumbnail": "../../images/img_tutor_1"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Anaphylaxis",
+      "description": "Anaphylaxis, a life-threatening medical emergency can strike anytime, anywhere and to anybody. Initiating the right treatment without wasting time gives the patient the best chance to survive. Unfortunately fear of injecting Adrenaline (Epinephrine) because of presumed toxicities and over-reliance on steroids and anti-histaminics deprive many patients to receive the right treatment. Here is a brief video presentation on Anaphylaxis.",
+      "duration": 844,
+      "countLike": 74,
+      "countComment": 12,
+      "countViews": 1300,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_5",
+      "tutor": {
+        "id": 1,
+        "name": "Dr. Mahadev Desai",
+        "position": "Sr. Consultant Physician",
+        "thumbnail": "../../images/img_tutor_1"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Treatment of Abscess",
+      "description": "Abscess is a usually painful and potentially morbid infection occurring anywhere in body. Seemingly simple to treat, its many aspects require specific knowledge and skill-set if complications are to be avoided. In this presentation a variety of abscesses, their common as well as unique features and different aspects of management are elaborately discussed.",
+      "duration": 1909,
+      "countLike": 70,
+      "countComment": 6,
+      "countViews": 1900,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_6",
+      "tutor": {
+        "id": 2,
+        "name": "Dr. Tejus Naik",
+        "position": "Consulting Neonatal & Paediatric Surgeon",
+        "thumbnail": "../../images/img_tutor_2"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Drug-Drug Interactions",
+      "description": "Drug-Drug interactions in clinical practice are most common than thought by most clinicians. Some of the drug reactions could be life-threatening and that too occurring with commonly prescribed drugs. Here is an attempt to sensitize all clinicians to keep in mind the possibility of Drug-Drug interactions before and after prescribing multiple drugs.",
+      "duration": 1103,
+      "countLike": 50,
+      "countComment": 6,
+      "countViews": 1600,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_7",
+      "tutor": {
+        "id": 1,
+        "name": "Dr. Mahadev Desai",
+        "position": "Sr. Consultant Physician",
+        "thumbnail": "../../images/img_tutor_1"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "In-Flight Medical Events",
+      "description": "Doctors do travel frequently for attending conferences as well as a part of family vacation tours. There is no formal training or teaching about “Emergencies in air”. This leads to hesitation and confusion amongst Doctors to come forward to an announcement like,”Is there a Doctor on board?” We bring you a small and concise presentation with compiled available information on the very vital subject of “In Flight Medical Events”. We are sure Medical Fraternity will come forward to help needy passengers, with greater confidence after listening to the talk on the subject.",
+      "duration": 1694,
+      "countLike": 221,
+      "countComment": 25,
+      "countViews": 4400,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_8",
+      "tutor": {
+        "id": 1,
+        "name": "Dr. Mahadev Desai",
+        "position": "Sr. Consultant Physician",
+        "thumbnail": "../../images/img_tutor_1"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Tracheostomy",
+      "description": "Tracheostomy, an abnormal opening created in Trachea, is an intentional breach of anatomy and physiology to manage a morbid or fatal ailment. The morbidity, that Tracheostomy inherently imparts, also needs meticulous care. Many methods exist and new advances are forthcoming. These are addressed in this presentation.",
+      "duration": 1855,
+      "countLike": 55,
+      "countComment": 5,
+      "countViews": 1400,
+      "countShare": 7,
+      "thumbnail": "../../images/img_video_9",
+      "tutor": {
+        "id": 2,
+        "name": "Dr. Tejus Naik",
+        "position": "Consulting Neonatal & Paediatric Surgeon",
+        "thumbnail": "../../images/img_tutor_2"
+      },
+      "comments": [
+        {
+          "id": "1",
+          "name": "Test User 1",
+          "position": "Test Position",
+          "comment": "Test comment 1",
+          "timestamp": "23 MAR 2019",
+          "countLike": 1
+        },
+        {
+          "id": "2",
+          "name": "Test User 2",
+          "position": "Test Position",
+          "comment": "Test comment 2",
+          "timestamp": "28 MAR 2019",
+          "countLike": 5
+        }
+      ]
+    }
+  ]
+}
